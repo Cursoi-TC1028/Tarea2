@@ -15,10 +15,10 @@ sudo -H pip3 install pytest
     pytest assignments/01IdentificaSigno
     ```
 
-- ## 02 Licencia
+- ## 01 Licencia
     ### Run command
     ```
-    pytest assignments/02Licencia
+    pytest assignments/01Licencia
     ```
 
 - ## 03 Tipo Tirángulo
@@ -69,7 +69,7 @@ sudo -H pip3 install pytest
 - ## 10 Cuadrante
     ### Run command
     ```
-    pytest assignments/10Cuadrante
+    pytest assignments/02Cuadrante
     ```
 
 
